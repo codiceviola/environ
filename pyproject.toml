@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "environ"
+version = "0.1.0"
+description = ""
+authors = ["Puria Nafisi Azizi <puria@brillostudio.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "^1.1.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pre-commit = "^2.8.2"
+taskipy = "^1.4.0"
+ipdb = "*"
+ipython = "*"
+pylint = "*"
+
+[tool.taskipy.tasks]
+hook = "pre-commit autoupdate && pre-commit install"
+lint = "pre-commit run --all-files"
+wrangle = "python environ/wrangler.py"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 120
