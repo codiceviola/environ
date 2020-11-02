@@ -15,11 +15,13 @@ taskipy = "^1.4.0"
 ipdb = "*"
 ipython = "*"
 pylint = "*"
+xlrd = "^1.2.0"
 
 [tool.taskipy.tasks]
 hook = "pre-commit autoupdate && pre-commit install"
 lint = "pre-commit run --all-files"
 wrangle = "python environ/wrangler.py"
+download = "wget https://annuario.isprambiente.it/sites/default/files/sys_ind_files/indicatori_ada/124/TABELLA%201_PM10_2018_new.xlsx -P data && wget https://github.com/giannicic/geojson-italy/blob/2020-municipalities-merge/topojson/limits_IT_all.topo.json -P data"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

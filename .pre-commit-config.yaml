@@ -15,20 +15,20 @@ repos:
         additional_dependencies: [poetry]
 
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.2.0
+    rev: v3.3.0
     hooks:
       - id: debug-statements
       - id: end-of-file-fixer
       - id: trailing-whitespace
 
-  - repo: https://github.com/andreoliwa/nitpick
-    rev: v0.23.0
-    hooks:
-      - id: nitpick
+#  - repo: https://github.com/andreoliwa/nitpick
+#    rev: v0.23.0
+#    hooks:
+#      - id: nitpick
 
 
   - repo: https://gitlab.com/pycqa/flake8
-    rev: 3.8.3
+    rev: 3.8.4
     hooks:
       - id: flake8
         additional_dependencies: [flake8-blind-except, flake8-bugbear, flake8-comprehensions,
@@ -36,12 +36,12 @@ repos:
           flake8-quotes, yesqa]
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: v2.7.2
+    rev: v2.7.3
     hooks:
       - id: pyupgrade
 
   - repo: https://github.com/pre-commit/pygrep-hooks
-    rev: v1.6.0
+    rev: v1.7.0
     hooks:
       - id: python-check-blanket-noqa
       - id: python-check-mock-methods
@@ -55,7 +55,7 @@ repos:
       - id: bashate
 
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
-    rev: v3.0.0
+    rev: v4.0.0
     hooks:
       - id: commitlint
         stages: [commit-msg]
@@ -80,11 +80,11 @@ repos:
       - id: seed-isort-config
 
   - repo: https://github.com/pre-commit/mirrors-isort
-    rev: v5.5.2
+    rev: v5.6.4
     hooks:
       - id: isort
 
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v0.782
+    rev: v0.790
     hooks:
       - id: mypy
