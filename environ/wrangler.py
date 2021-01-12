@@ -93,6 +93,9 @@ def clean_city_name(entry):
 
     @:param entry the city name to clean
     """
+    print(entry)
+    if type(entry) is float:
+        return
     entry = entry[: entry.find(" (")] if " (" in entry else entry
     return italian_title(entry)
 
