@@ -109,7 +109,6 @@ def wrangle(src, dest):
     """
     dataframe = pandas.read_csv(src)
     dataframe = dataframe.applymap(clean_city_name)
-    dataframe = dataframe.drop_duplicates(subset=["Città"])
     dataframe = dataframe.set_index("Città")
     dataframe = dataframe.sort_index()
     dataframe.to_csv(dest, index=True)
