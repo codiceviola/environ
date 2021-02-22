@@ -93,11 +93,27 @@ def clean_city_name(entry):
 
     @:param entry the city name to clean
     """
-    print(entry)
     if type(entry) is float:
         return
     entry = entry[: entry.find(" (")] if " (" in entry else entry
     return italian_title(entry)
+
+
+def wrangle_excel(src, dest):
+    """
+    Read from the unified new shiny excel.
+
+    :param src:
+    :param dest:
+    :return:
+    """
+    df = pandas.read_excel(src)
+    df = df.rename(columns={"Luogo di nascita ": "born", "Residenza": "residency", "Mutation": "mutation"})
+    df["born"] = df[["born"]].applymap(clean_city_name)
+    df["residency"] = df[["residency"]].applymap(clean_city_name)
+    df = df.drop(["REGIONE Res", "REGIONE nascita"], axis=1)
+    df.to_csv(dest)
+    print(f"{src} => {dest}")
 
 
 def wrangle(src, dest):
@@ -191,5 +207,6 @@ def ispra(src, dest):
 
 wrangle("data/residenza.csv", "output/residenza.csv")
 wrangle("data/nascita.csv", "output/nascita.csv")
+wrangle_excel("data/elenco comuni Piero.xlsx", "output/mutation.csv")
 ispra("data/TABELLA 1_PM10_2018_new.xlsx", "output/ispra.csv")
 ispra_per_municipality("data/TABELLA 1_PM10_2018_new.xlsx", "output/ispra_comune.csv")

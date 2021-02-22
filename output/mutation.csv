@@ -1,0 +1,945 @@
+,born,residency,mutation
+0,Milano,Abbiategrasso,False
+1,Catania,Aci Castello,False
+2,Palangianello,Acquaviva delle Fonti,False
+3,Acri,Acri,False
+4,Napoli,Afragola,False
+5,Afragola,Afragola,False
+6,Umbertide,Agliana,False
+7,Milano,Agrate Brianza,False
+8,Grotte,Agrigento,False
+9,Ala,Ala,False
+10,Como,Albavilla,False
+11,Putigliano,Alberobello,False
+12,Alberobello,Alberobello,False
+13,Bari,Altamura,False
+14,Aversa,Alvignano,False
+15,Seriate,Alzano Lombardo,False
+16,Anacapri,Anacapri,False
+17,Andria,Andria,True
+18,Andria,Andria,False
+19,Andria,Andria,True
+20,Anzio,Anzio,False
+21,Uk,Anzio,False
+22,Apricena,Apricena,False
+23,Napoli,Aprilia,False
+24,Campolattaro,Aprilia,False
+25,Aprilia,Aprilia,False
+26,Vimercate,Arcore,False
+27,Taranto,Ardea,False
+28,Poppi,Arezzo,False
+29,Arezzo,Arezzo,False
+30,Bologna,Argelato,True
+31,Ariano Irpino,Ariano Irpino,False
+32,Arzignano,Arzignano,False
+33,Ascoli Satriano,Ascoli Satriano,False
+34,Germania,Atella,False
+35,Napoli,Ausonia,False
+36,San Mauro Cilento,Avellino,True
+37,Avellino,Avellino,False
+38,Ariano Irpino,Avellino,False
+39,Avellino,Avellino,False
+40,Avezzano,Avezzano,False
+41,Bagnacavallo,Bagnacavallo,False
+42,Firenze,Bagno a Ripoli,False
+43,Bagno di Romagna,Bagno di Romagna,True
+44,Bagnolo Mella,Bagnolo Mella,False
+45,Alba,Barbaresco,False
+46,Varese,Bardello,False
+47,Bari,Bari,False
+48,Bari,Bari,False
+49,Foggia,Bari,False
+50,Roma,Bari,False
+51,Rotondella,Bari,False
+52,Bari,Bari,False
+53,Laurenzana,Barletta,False
+54,Salerno,Baronissi,False
+55,Venezuela,Bassano del Grappa,False
+56,Ronco all'Adige,Belfiore,False
+57,Savignano sul Rubicone,Bellaria-igea Marina,False
+58,Vimercate,Bellusco,False
+59,Cisano Bergamasco,Bergamo,True
+60,Bergamo,Bergamo,False
+61,Bergamo,Bergamo,False
+62,Bergamo,Bergamo,False
+63,San Nicola dall'Alto,Bergamo,False
+64,Bergamo,Bergamo,False
+65,Ostiglia,Bergantino,False
+66,Vimercate,Bernareggio,False
+67,Besana in Brianza,Besana in Brianza,False
+68,Bisceglie,Bisceglie,False
+69,Bisceglie,Bisceglie,False
+70,Molfetta,Bisceglie,False
+71,Borgomanero,Boca,False
+72,Cuggiono,Boffalora Sopra Ticino,False
+73,Milano,Bollate,False
+74,Bollate,Bollate,False
+75,Ucraina,Bologna,True
+76,Vergato,Bologna,True
+77,Bologna,Bologna,True
+78,Ulassai,Bologna,True
+79,Bologna,Bologna,False
+80,Roseto degli Abruzzi,Bologna,False
+81,Bangladesh,Bologna,False
+82,Sarsina,Bologna,False
+83,Bologna,Bologna,False
+84,Mantova,Bologna,False
+85,Ferrara,Bologna,False
+86,Pianoro,Bologna,False
+87,Bologna,Bologna,False
+88,Riva del Garda,Bologna,False
+89,Savignano sul Rubicone,Bologna,False
+90,Camerino,Bologna,False
+91,Marzabotto,Bologna,False
+92,Bologna,Bologna,False
+93,Danimarca,Bologna,False
+94,Montese,Bologna,False
+95,Bologna,Bologna,False
+96,Argelato,Bologna,False
+97,Monteciccardo,Bologna,False
+98,Reggio Calabria,Bologna,False
+99,Bologna,Bologna,False
+100,Crotone,Bologna,False
+101,Bologna,Bologna,False
+102,Bologna,Bologna,False
+103,Genova,Bologna,False
+104,Arezzo,Bologna,False
+105,Bari,Bologna,False
+106,Bologna,Bologna,False
+107,Bologna,Bologna,False
+108,Brindisi,Bologna,False
+109,Bologna,Bologna,False
+110,Massa Fiscaglia,Bologna,False
+111,Bologna,Bologna,False
+112,Bologna,Bologna,False
+113,Foggia,Bologna,False
+114,Bondeno,Bondeno,False
+115,Ferrara,Bondeno,False
+116,Biella,Borriana,False
+117,Isola Rizza,Bovolone,False
+118,Roma,Bracciano,False
+119,Bergamo,Brembilla,False
+120,Brescia,Brescia,False
+121,Brescia,Brignano-frascata,False
+122,Trinitapoli,Briosco,False
+123,Faenza,Brisighella,False
+124,Brugherio,Brugherio,False
+125,Villa San Giovanni,Brugherio,False
+126,Correzzola,Buccinasco,False
+127,Secondigliano,Buccinasco,False
+128,Budrio,Budrio,False
+129,Budrio,Budrio,False
+130,Benevento,Buonalbergo,False
+131,Somma Lombardo,Busto Arsizio,False
+132,Busto Arsizio,Busto Arsizio,False
+133,Busto Arsizio,Busto Arsizio,False
+134,Meda,Cabiate,False
+135,Torino,Cairo Montenotte,False
+136,Calamonaci,Calamonaci,False
+137,Nicosia,Calderara di Reno,False
+138,Savona,Calizzano,False
+139,Catania,Caltanissetta,False
+140,Milano,Caluso d'Adda,False
+141,Milano,Camposanpiero,False
+142,Mantova,Canegrate,True
+143,Lainate,Canegrate,False
+144,Belgio,Caneva,False
+145,Milano,Canneto Pavese,False
+146,Asola,Canneto sull'Oglio,False
+147,Canosa di Puglia,Canosa di Puglia,False
+148,Cantù,Cantù,True
+149,Canicatti',Cantu',False
+150,Sesto San Giovanni,Caponago,False
+151,Pescara,Cappelle sul Tavo,False
+152,Como,Carate Urio,False
+153,Bari,Carbonara,False
+154,Napoli,Cardito,False
+155,Vercelli,Caresanablot,True
+156,Como,Carimate,False
+157,Cartigliano,Cartigliano,False
+158,Milano,Carugate,False
+159,Scerni,Casalbordino,False
+160,Casalduni,Casalduni,False
+161,Casalpusterlengo,Casalpusterlengo,False
+162,Foggia,Casalvecchio di Puglia,False
+163,Napoli,Caserta,False
+164,Napoli,Caserta,False
+165,Raffadali,Caslino d'Erba,False
+166,Ussassai,Casorate Sempione,False
+167,Napoli,Casoria,False
+168,Cassano d'Adda,Cassano d'Adda,False
+169,Bergamo,Cassano d'Adda,False
+170,Castano Primo,Castano Primo,False
+171,Castel Guelfo,Castel San Pietro Terme,True
+172,Monticelli d'Ongina,Castelevetro Piacentino,False
+173,Salerno,Castellabate,True
+174,Castelliri,Castelliri,False
+175,Cosenza,Castelluccio Inferiore,True
+176,Ostiglia,Castelmassa,False
+177,Bologna,Castenaso,False
+178,Castiglion Fibocchi,Castiglion Fibocchi,False
+179,Castro,Castro,False
+180,Colle San Magno,Castrocielo,False
+181,Siracusa,Catania,False
+182,Catania,Catania,False
+183,Cattolica,Cattolica,False
+184,Busto Arsizio,Cavaria con Premezzo,True
+185,Bosisio Parini,Cavenago di Brianza,False
+186,Cento,Cento,True
+187,Cento,Cento,False
+188,Cento,Cento,False
+189,San Bellino,Cento,False
+190,Cento,Cento,False
+191,Pescara,Cepagatti,False
+192,Cerignola,Cerignola,False
+193,Cerignola,Cerignola,False
+194,Cerignola,Cerignola,False
+195,Cerignola,Cerignola,False
+196,Cerignola,Cerignola,False
+197,Giussano,Cermenate,False
+198,Milano,Cernusco sul Naviglio,True
+199,Milano,Cernusco sul Naviglio,False
+200,Cernusco sul Naviglio,Cernusco sul Naviglio,False
+201,Cologno Monzese,Cernusco sul Naviglio,False
+202,Cernusco sul Naviglio,Cernusco sul Naviglio,False
+203,Pessano con Bornago,Cernusco sul Naviglio,False
+204,Milano,Cernusco sul Naviglio,False
+205,Roma,Cerveteri,False
+206,Cervia,Cervia,False
+207,Ravenna,Cervia,False
+208,Manduria,Cesano Boscone,False
+209,Desio,Cesano Maderno,False
+210,Cesano Maderno,Cesano Maderno,False
+211,Castellone di Suasa,Cesano Maderno,False
+212,Cesena,Cesena,False
+213,Cesena,Cesena,False
+214,Cesena,Cesena,False
+215,Serbia,Cesena,False
+216,Cesena,Cesena,False
+217,Cesena,Cesena,False
+218,Cesena,Cesena,False
+219,Cesena,Cesenatico,False
+220,Arbus,Chavari,False
+221,Forno di Zoldo,Chies d'Alpago,False
+222,Chiavasso,Chivasso,False
+223,Alessandria della Rocca,Cianciana,False
+224,Sesto San Giovanni,Cinisello Balsamo,False
+225,Milano,Cinisello Balsamo,False
+226,Boscotrecase,Ciserano,False
+227,Como,Cislago,True
+228,Sanremo,Cislago,False
+229,Milano,Cisliano,False
+230,Cittanova,Cittanova,False
+231,Vanzago,Clivio,False
+232,Codigoro,Codigoro,False
+233,Codigoro,Codigoro,False
+234,Colleferro,Colleferro,False
+235,Selvino,Cologno al Serio,False
+236,Monza,Cologno Monzese,False
+237,Cologno Monzese,Cologno Monzese,False
+238,Pistoia,Cologno Monzese,False
+239,Milano,Cologno Monzese,False
+240,Sesto San Giovanni,Cologno Monzese,False
+241,Milano,Cologno Monzese,False
+242,Benevento,Como,True
+243,Benevento,Como,True
+244,Bedonia,Compiano,False
+245,Montemesola,Concorezzo,False
+246,Conselice,Conselice,False
+247,Villalfonsina,"Contrada Colle Verruno 22, Villalfonsina",False
+248,Contursi Terme,Contursi Terme,False
+249,Conversano,Conversano,False
+250,Copparo,Copparo,False
+251,Corigliano Calabro,Corigliano Calabro,False
+252,Genzano di Lucania,Corigliano-rossano,False
+253,Milano,Cormano,False
+254,Cornaredo,Cornaredo,False
+255,Taranto,Cornate d'Adda,False
+256,Brunico,Corvara in Badia,False
+257,Sirone,Costa Masnaga,False
+258,Crema,Crema,False
+259,Cremona,Cremona,False
+260,Cremona,Cremona,False
+261,Cremona,Cremona,False
+262,Brasile,Cremona,False
+263,Lattarico,Crosia,False
+264,Crotone,Crotone,False
+265,Pompei,Cuggiono,True
+266,Rosolini,Cuggiono,False
+267,Milano,Cusano Milanino,False
+268,Annone Veneto,Cusano Milanino,False
+269,Treviolo,Dalmine,False
+270,Cardinale,Davoli,False
+271,Deliceto,Deliceto,False
+272,Deliceto,Deliceto,False
+273,Desio,Desio,True
+274,Salerno,Eboli,False
+275,Edolo,Edolo,False
+276,Altopascio,Empoli,False
+277,Seriate,Endine Gaiano,False
+278,Serbia-montenegro,Endine Gaiano,False
+279,Napoli,Ercolano,False
+280,Portici,Ercolano,False
+281,Fabriano,Fabriano,False
+282,Roma,Faenza,False
+283,Faenza,Faenza,False
+284,Luzzara,Faenza,False
+285,Medicina,Faenza,False
+286,Messina,Falconara Marittima,False
+287,Quistello,Felonica,False
+288,Albania,Ferentino,False
+289,Fermo,Fermo,False
+290,Ferrara,Ferrara,False
+291,Savona,Finale Ligure,False
+292,Orsomarso,Fino Mornasco,False
+293,Fiorenzuola d'Arda,Fiorenzuola d'Arda,False
+294,Albania,Firenze,False
+295,Mercato San Severino,Fisciano,False
+296,Cina,Fiumicino,False
+297,Foggia,Foggia,True
+298,San Severo,Foggia,False
+299,Paularo,Foggia,False
+300,Napoli,Foggia,False
+301,Foggia,Foggia,False
+302,Deliceto,Foggia,False
+303,Napoli,Foggia,False
+304,Cerignola,Foggia,False
+305,Deliceto,Foggia,False
+306,Foggia,Foggia,False
+307,Foggia,Foggia,False
+308,Foggia,Foggia,False
+309,Ariano Irpino,Foggia,False
+310,Foggia,Foggia,False
+311,Foggia,Foggia,False
+312,Foggia,Foggia,False
+313,Foggia,Foggia,False
+314,Foggia,Foggia,False
+315,Fondi,Fondi,False
+316,Santa Sofia,Forlì,True
+317,Pollutri,Fosacesia,False
+318,Frascati,Frascati,False
+319,Cremona,Gadesco Pieve del Mona,False
+320,Belvedere Marittimo,Gallicano nel Lazio,False
+321,Leno,Gambara,False
+322,Bosisio Parini,Garbagnate Monastero,False
+323,Bertinoro,Gatteo,False
+324,Gavi,Gavi,False
+325,Gazzaniga,Gazzaniga,False
+326,Gazzo Veronese,Gazzo Veronese,False
+327,Genova,Genova,False
+328,Genova,Genova,False
+329,Genova,Genova,False
+330,Genova,Genova,False
+331,Genova,Genova,False
+332,Gamalero,Genova,False
+333,Porto Valtravaglia,Germignaga,False
+334,Milano,Gessate,False
+335,Giavera del Montello,Giavera del Montello,False
+336,Gioia del Colle,Gioia del Colle,False
+337,Gioisa Ionica,Gioiosa Ionica Rc,False
+338,Argentina,Giugliano,False
+339,Voghera,Godiasco,False
+340,Oleggio,Golasecca,False
+341,Lesina,Gorgonzola,True
+342,Milano,Gorgonzola,False
+343,Milano,Gorgonzola,False
+344,Mirandola,Granarolo dell'Emilia,False
+345,Grazzanise,Grazzanise,False
+346,Gricignano,Gricignano,True
+347,Roma,Grosseto,False
+348,Bari,Grugliasco,False
+349,Appiano Gentile,Guanzate(co),False
+350,Olgiate Comasco,Guanzate(co),False
+351,Campobasso,Guardiaregia,True
+352,Imperia,Imperia,False
+353,Firenze,Impruneta,False
+354,Isola di Capo Rizzuto,Isola di Capo Rizzuto,False
+355,Torino,Isole Tremiti,False
+356,Izano,Izano,False
+357,Izzano,Izzano,False
+358,San Donà di Piave,Jesolo,False
+359,San Donà di Piave,Jesolo,False
+360,Roma,Labico,False
+361,Roma,Ladispoli,False
+362,Giulianova,Lainate,False
+363,Salerno,Lancusi,False
+364,Landriano,Landriano,False
+365,Palermo,Latina,False
+366,Sabaudia,Latina,False
+367,Roncade,Latina,False
+368,Latina,Latina,False
+369,Sessa Aurunca,Latina,False
+370,Lavis,Lavis,False
+371,Lecce,Lecce,True
+372,Lecce,Lecce,False
+373,Roma,Lecce,False
+374,Lecce,Lecce,False
+375,Chiavenna,Lecco,False
+376,Legnano,Legnago,False
+377,Legnano,Legnano,False
+378,Seveso,Lentate sul Seveso,False
+379,Maschito,Lesmo,False
+380,Milano,Lissone,False
+381,Brescia,Livorno,False
+382,Vigevano,Lodi,False
+383,Modica,Lodi,False
+384,Monghidoro,Loiano,False
+385,Somma Lombardo,Lonate Pozzolo,False
+386,Cesena,Longiano,False
+387,Barga,Lucca,False
+388,Lucera,Lucera,False
+389,Lucera,Lucera,True
+390,Lucera,Lucera,False
+391,Lucera,Lucera,False
+392,Pontedassio,Lucinasco,False
+393,Varese,Luino,False
+394,Nardò,Lurate Caccivio,False
+395,Carate Brianza,Macherio,False
+396,Verona,Malcesine,False
+397,Ferrara,Malfa,False
+398,Manfredonia,Manfredonia,False
+399,Foggia,Manfredonia,False
+400,Monte Sant'Angelo,Manfredonia,False
+401,Manfredonia,Manfredonia,False
+402,Salerno,Manfredonia,True
+403,Alberona,Manfredonia,False
+404,Marcaria,Marcaria,False
+405,Mantova,Marcaria,False
+406,Catanzaro,Marcellinara,False
+407,San Felice a Cancello,Marigliano,False
+408,Forino,Marigliano,False
+409,Marostica,Marostica,True
+410,Martina Franca,Martina Franca,False
+411,Milano,Marzabotto,False
+412,Marzano di Nola,Marzano di Nola,False
+413,Lodi,Massalengo,False
+414,Matelica,Matelica,False
+415,Mazara del Vallo,Mazara del Vallo,False
+416,Porretta Terme,Mazzano Romana,False
+417,Melegnano,Melegnano,False
+418,Rionero in Vultire,Melfi,False
+419,Gorizia,Melzo,False
+420,Merano,Merano,False
+421,Bologna,Merate,True
+422,Santa Maria di Rovagnate,Merate,False
+423,Lamezia Terme,Messina,False
+424,Messina,Messina,False
+425,Messina,Messina,False
+426,Messina,Messina,False
+427,Castelvetrano,Mezzane di Sotto,False
+428,Cles,Mezzolombardo,False
+429,Maggiora,Milano,True
+430,Valfurva,Milano,True
+431,Romania,Milano,True
+432,Milano,Milano,True
+433,Margherita di Savoia,Milano,True
+434,Milano,Milano,True
+435,Varese,Milano,True
+436,Milano,Milano,False
+437,Milano,Milano,False
+438,Svizzera,Milano,False
+439,Milano,Milano,False
+440,Milano,Milano,False
+441,Milano,Milano,False
+442,Belgio,Milano,False
+443,Catania,Milano,False
+444,Gemonio,Milano,False
+445,Ramiseto,Milano,False
+446,Aviano,Milano,False
+447,Busto Arsizio,Milano,False
+448,Milano,Milano,False
+449,Sesto Fiorentino,Milano,False
+450,Piacenza,Milano,False
+451,Milano,Milano,False
+452,Milano,Milano,False
+453,Milano,Milano,False
+454,Denno,Milano,False
+455,Vimercate,Milano,False
+456,Piove di Sacco,Milano,False
+457,Foggia,Milano,False
+458,Milano,Milano,False
+459,Milano,Milano,False
+460,Milano,Milano,False
+461,Trigolo,Milano,False
+462,Maranello,Milano,False
+463,Santa Croce di Magliano,Milano,False
+464,la Spezia,Milano,False
+465,Venezia,Milano,False
+466,Milano,Milano,False
+467,Milano,Milano,False
+468,Catania,Milano,False
+469,Valdagno,Milano,False
+470,Troia,Milano,False
+471,Sant'Angielo Lodigiano,Milano,False
+472,Milano,Milano,False
+473,Magenta,Milano,False
+474,Milano,Milano,False
+475,Francavilla Fontana,Milano,False
+476,San Martino di Venezze,Milano,False
+477,Bezzecca,Milano,False
+478,Milano,Milano,False
+479,Jesolo,Milano,False
+480,Ancona,Milano,False
+481,Roma,Milano,False
+482,Milano,Milano,False
+483,Milano,Milano,False
+484,Milano,Milano,False
+485,Milano,Milano,False
+486,Milano,Milano,False
+487,Noventa Padovana,Milano,False
+488,Milano,Milano,False
+489,Milano,Milano,False
+490,Stornara,Milano,False
+491,Cittiglio,Milano,False
+492,Torrevecchia Pia,Milano,False
+493,Milano,Milano,False
+494,Saronno,Milano,False
+495,Egitto,Milano,False
+496,Verzegnis,Milano,False
+497,Torre Annunziata,Milano,False
+498,Taranto,Milano,False
+499,Milano,Milano,False
+500,Lonigo,Milano,False
+501,Roncoferraro,Milano,False
+502,Taranto,Milano,False
+503,Monreale,Milano,False
+504,Papozze,Milano,False
+505,Moldavia,Milano,False
+506,San Piero Patti,Milano,False
+507,Busto Arsizio,Milano,False
+508,Milano,Milano,False
+509,Milano,Milano,False
+510,Bolzano,Milano,False
+511,Cassano d'Adda,Milano,False
+512,Novara,Milano,False
+513,Grottaglie,Milano,False
+514,Milano,Milano,False
+515,Milano,Milano,False
+516,Milano,Milano,False
+517,Filippine,Milano,False
+518,Roma,Milano,False
+519,Napoli,Milano,False
+520,Cairo Montenotte,Milano,False
+521,Milano,Milano,False
+522,Grottaglie,Milano,False
+523,Monza,Milano,False
+524,Milano,Milano,False
+525,Milano,Milano,False
+526,Milano,Milano,False
+527,Castellamare di Stabia,Milano,False
+528,Romania,Milano,False
+529,Milazzo,Milazzo,False
+530,Barcellona Pozzo di Gotto,Milazzo,False
+531,Minervino Murge,Minervino Murge,False
+532,Albisola Marina,Mioglia,False
+533,Finale Emilia,Mirandola,False
+534,Mira,Mirano,False
+535,Camponogara,Mirano,False
+536,Romano di Lombardia,Misano di Gera d'Adda,False
+537,Sassuolo,Modena,False
+538,Modena,Modena,False
+539,Molfetta,Molfetta,False
+540,Montalto Uffugo,Moltalto Uffugo,False
+541,Monopoli,Monopoli,False
+542,Monte Falcone nel Sannio,Monte Falcone nel Sannio,False
+543,Monte San Giovanni Campano,Monte San Giovanni Campano,False
+544,Montefiore dell'Aso,Montefiore dell'Aso,False
+545,Montefiore dell'Aso,Montefiore dell'Aso,False
+546,Siena,Monteriggioni,False
+547,Gavirate,Monvalle,False
+548,Venezuela,Monza,False
+549,Monza,Monza,False
+550,Monza,Monza,False
+551,Monza,Monza,False
+552,Trapani,Monza,False
+553,Carate Brianza,Monza,False
+554,Milano,Monza,False
+555,Monza,Monza,False
+556,Gallarate,Monza,False
+557,Bonate Sotto,Morbegno,False
+558,Cremona,Motta Baluffi,False
+559,Tradate,Mozzate,False
+560,Caserta,,False
+561,,,False
+562,Napoli,Napoli,False
+563,Napoli,Napoli,False
+564,Napoli,Napoli,False
+565,Napoli,Napoli,False
+566,Napoli,Napoli,False
+567,Naoli,Napoli,False
+568,Napoli,Napoli,False
+569,Napoli,Napoli,False
+570,Napoli,Napoli,False
+571,Napoli,Napoli,False
+572,Napoli,Napoli,False
+573,Roma,Nerola,False
+574,Como,Nesso,False
+575,Piacenza,Nibbiano,False
+576,Noto,Noto,False
+577,Napoli,Nova Milanese,False
+578,Terlizzi,Novara,False
+579,Bolognano,Novate Milanese,False
+580,Roma,Noviglio,False
+581,Nuoro,Nuoro,False
+582,Roma,Nuoro,False
+583,Salerno,Ogliastro Cilento,False
+584,Salerno,Ogliastro Cilento,False
+585,Borgomanero,Oleggio,False
+586,Fragneto Monforte,Oriolo Romano,False
+587,Pisa,Ornago,False
+588,Irsina,"Ortona Via Tripoli, 7",False
+589,Orzinuovi,Orzinuovi,False
+590,Ostellato,Ostellato,False
+591,Ostuni,Ostuni,False
+592,Ottaviano,Ottaviano,False
+593,Abbiategrasso,Ozzero,False
+594,Paderno Dugnano,Paderno Dugnano,False
+595,Milano,Paderno Dugnano,False
+596,Bagnolo di Po,Paderno Dugnano,False
+597,Lendinara,Padova,False
+598,Palazzolo sull'Oglio,Palazzolo sull'Oglio,True
+599,Palermo,Palermo,False
+600,Palermo,Palermo,False
+601,Palestrina,Palestrina,False
+602,Palmi,Palmi,False
+603,Ravenna,Pantigliate,False
+604,Milano,Pantigliate,False
+605,Francia,Parigi,False
+606,Parma,Parma,False
+607,Thiene,Parma,False
+608,Pastena,Pastena,False
+609,Paullo,Paullo,True
+610,Melegnano,Paullo,False
+611,Milano,Paullo,True
+612,Lodi,Paullo,False
+613,Scanzorosciate,Pedrengo,False
+614,Perugia,Perugia,True
+615,Pescantina,Pescantina,False
+616,Oppido Mamertina,Pescara,False
+617,Pescara,Pescara,False
+618,Noicattaro,Pescara,False
+619,Pescara,Pescara,False
+620,Pescara,"Pescara 65122 Via Regina Elena, 48",False
+621,Pescara,"Pescara, Strada Comunale Piana, 60",False
+622,San Giovanni Rotondo,Peschici,False
+623,Milano,Peschiera Borromeo,False
+624,Milano,Peschiera Borromeo,False
+625,Città di Castello,Pescia,False
+626,Pianella,Pianella,False
+627,Dolo,Pianiga,False
+628,Bologna,Pianoro,True
+629,Bologna,Pianoro,False
+630,Pietramelara,Pietramalara,False
+631,Cremona,Pieve d'Olmi,False
+632,Salerno,Pieve Emanuele,False
+633,Torino,Pinerolo,True
+634,Torino,Pinerolo,True
+635,Milano,Pioltello,False
+636,Cernusco sul Naviglio,Pioltello,True
+637,Milano,Pioltello,False
+638,Colle San Magno,Piossasco,True
+639,Agerola,Pisa,False
+640,Gambassi Terme,Poggio a Caiano,False
+641,Pomigliano d'Arco,Pomigliano d'Arco,False
+642,Pontirolo Nuovo,Pontirolo Nuovo,False
+643,Abbiategrasso,Ponzano Monferrato,False
+644,Abbiategrasso,Ponzano Monferrato,False
+645,Popoli,Popoli,False
+646,Pordenone,Pordenone,False
+647,Verona,Porto Mantovano,False
+648,Mantova,Porto Mantovano,False
+649,Porto Recanati,Porto Recanati,False
+650,Comacchio,Portomaggiore,False
+651,Avigliano,Potenza,False
+652,Inzago,Pozzo d'Adda,False
+653,Milano,Pozzo d'Adda,False
+654,Basiano,Pozzo d'Adda,False
+655,Spagna,Pozzuolo Martesana,False
+656,Forlì,Predappio,False
+657,Cornaredo,Pregnana Milanese,False
+658,Lecco,Primaluna,False
+659,Capriolo,Pumenengo,False
+660,Putignano,Putignano,False
+661,Napoli,Qualiano,False
+662,Pistoia,Quarrata,False
+663,Pozzuoli,Quarto,False
+664,Arborea,Quartu Sant'Elena,False
+665,Quiliano,Quiliano,False
+666,Treviso,Quinto di Treviso,False
+667,Treviso,Quinto di Treviso,False
+668,Uzzano,Ranica,False
+669,Genova,Rapallo,True
+670,Ravenna,Ravenna,True
+671,Ravenna,Ravenna,True
+672,Ravenna,Ravenna,False
+673,Cervia,Ravenna,False
+674,Cesena,Ravenna,False
+675,Atri,Ravenna,False
+676,Faenza,Ravenna,False
+677,Bozzolo,Redondesco,False
+678,Libia,Reggio Calabria,False
+679,Rho,Rho,False
+680,Riccione,Riccione,True
+681,Bologna,Rimini,False
+682,Gambettola,Rimini,False
+683,Livorno,Rimini,False
+684,Argentina,Rimini,False
+685,Castelvetrano,Riva del Garda,False
+686,Crema,Rivolta d'Adda,False
+687,Caravaggio,Rivolta d'Adda,False
+688,Rodi Garganico,Rodi Garganico,False
+689,Roma,Roma,True
+690,Roma,Roma,True
+691,Roma,Roma,True
+692,Santeramo in Colle,Roma,False
+693,Roma,Roma,False
+694,Roma,Roma,False
+695,Palermo,Roma,False
+696,Roma,Roma,False
+697,Milano,Roma,False
+698,Roma,Roma,False
+699,Castellana Grotte,Roma,False
+700,Roma,Roma,False
+701,Pietralunga,Roma,False
+702,Trapani,Roma,False
+703,Roma,Roma,False
+704,Romania,Roma,False
+705,Merano,Roma,False
+706,Roma,Roma,False
+707,Roma,Roma,False
+708,Roma,Roma,False
+709,Roma,Roma,False
+710,Ortona,Roma,False
+711,Tunisia,Roma,False
+712,Roma,Roma,False
+713,Tunisia,Roma,False
+714,Roma,Roma,False
+715,Roma,Roma,False
+716,Genova,Roma,False
+717,Roma,Roma,False
+718,Messico,Roma,False
+719,Salerno,Roma,False
+720,Roma,Roma,False
+721,Roma,Roma,False
+722,Roma,Roma,False
+723,Roma,Roma,False
+724,Roma,Roma,False
+725,Roma,Roma,False
+726,Taranto,Roma,False
+727,Terni,Roma,False
+728,Roma,Roma,False
+729,Benevento,Roma,False
+730,Roma,Roma,False
+731,Roma,Roma,False
+732,Taranto,Roma,False
+733,Roma,Roma,False
+734,Roma,Roma,False
+735,Milano,Romanengo,False
+736,Soncino,Romao di Lombarda,True
+737,Mantova,Roncoferraro,False
+738,Savignano sul Rubicone,Roncofreddo,False
+739,Napoli,Rosignano Marittima,False
+740,Rosà,Rossano Veneto,False
+741,Almese,Rosta,False
+742,Bolzano,Rovigo,False
+743,Casorate Primo,Rozzano,True
+744,Foggia,Ruvo di Puglia,False
+745,Palmi,S Donato Milanese,False
+746,S. Ferdinando di Pugli,S. Ferdinando di Puglia,False
+747,Napoli,S. Giorgio a Cremano,False
+748,S. Paolo Civitate,S. Paolo Civitate,False
+749,Teggiano,Sala Consilina,False
+750,Ottati,Salerno,False
+751,Napoli,Salerno,False
+752,Milano,Salvirola,False
+753,Villa Estense,Samarate,False
+754,Sammichele di Bari,Sammichele di Bari,False
+755,Bolzano,San Bonifacio,True
+756,San Bonifacio,San Bonifacio,False
+757,Palmi,San Donato,False
+758,Torre de' Picenardi,San Donato Milanese,False
+759,Napoli,San Giorgio a Cremano,False
+760,Monza,San Giovanni in Persiceto,False
+761,San Giovanni Rotondo,San Giovanni Rotondo,True
+762,San Giovanni Rotondo,San Giovanni Rotondo,False
+763,Foggia,San Giovanni Rotondo,False
+764,Milano,San Giuliano Milanese,True
+765,Bologna,San Lazzaro di Savena,False
+766,Bologna,San Lazzaro di Savena,False
+767,Bologna,San Lazzaro di Savena,False
+768,Caserta,San Marco Evangelista,False
+769,Padova,San Martino Buonalbergo,False
+770,Novara,San Nazaro Sesia,False
+771,San Rocco al Porto,San Rocco al Porto,False
+772,San Severo,San Severo,False
+773,Senegal,San Severo,False
+774,San Severo,San Severo,False
+775,San Severo,San Severo,False
+776,San Severo,San Severo,False
+777,San Severo,San Severo,False
+778,San Severo,San Severo,False
+779,San Severo,San Severo,False
+780,San Severo,San Severo,False
+781,San Severo,San Severo,False
+782,Siniscolasan Teodoro,San Teodoro,False
+783,San Vincenzo Valle Roveto,San Vincenzo Valle Roveto,False
+784,Sanguinetto,Sanguinetto,False
+785,Germania,Sannicandro,False
+786,Sant'Angelo Rosciano,Sant'Angelo Rosciano,False
+787,Napoli,Sant'Antimo,True
+788,Sant'Antimo,Sant'Antimo,False
+789,Bari,Sant'Arsinio,False
+790,Santa Margherita,Santa Margerita Ligure,False
+791,Pesaro,Santangelo in Linzzola,False
+792,Torrita di Siena,Sarzana,False
+793,Torrita di Siena,Sarzana,False
+794,Florinas,Sassari,False
+795,Sassari,Sassari,False
+796,Sassuolo,Sassuolo,False
+797,Rimini,Savignano sul Rubicone,False
+798,Bassano del Grappa,Savignano sul Rubicone,False
+799,Nocera Inferiore,Scafati,False
+800,Milano,Segrate,False
+801,Bellano,Segrate,False
+802,Milano,Segrate,False
+803,Castellone,Segrate,False
+804,Aversa,Selvazzano Dentro,True
+805,Palmi,Seminara,False
+806,Seregno,Seregno,True
+807,Milano,Seregno,False
+808,Seregno,Seregno,False
+809,Pisa,Seregno,False
+810,Serino,Serino,False
+811,San Paolo di Civitate,Serracapriola,True
+812,Sessa Aurunca,Sessa Aurunca,False
+813,Firenze,Sesto Fiorentino,False
+814,Maglie,Sesto San Giovanni,False
+815,Canosa di Puglia,Sesto San Giovanni,False
+816,Milano,Sesto San Giovanni,False
+817,Brescia,Settala,False
+818,Maleo,Settala,False
+819,Campomaggiore,Seveso,False
+820,Siracusa,Siracusa,False
+821,Siracusa,Siracusa,False
+822,Roma,Siracusa,False
+823,Milano,Solaro,False
+824,Solbiate Olona,Solbiate Olona,False
+825,Sommatino,Sommatino,False
+826,Nocera Inferiore,Sona,False
+827,Saronnno,Soncino,False
+828,Sorrento,Sorrento,False
+829,Camposampiero,Sovizzo,False
+830,Camposampiero,Sovizzo,False
+831,Spinazzola,Spinazzola,False
+832,Cerignola,Stornara,False
+833,Striano,Striano,False
+834,Bonate Sopra,Strozza,False
+835,Villanova di Camposampiero,Svizzera,False
+836,Taranto,Taranto,False
+837,Vittorio Veneto,Tarzo,False
+838,Tavazzano con Villavesco,Tavazzano,False
+839,Tavernola Bergamasca,Tavernola Bergamasca,False
+840,Francia,Termoli,False
+841,Vallo della Lucania,Terni,False
+842,Bergamo,Terno d'Isola,False
+843,Isernia,Terracina,False
+844,Venaria Reale,Thiene,False
+845,Tirano,Tirano,False
+846,Sondrio,Tirano,False
+847,Pofi,Tivoli,False
+848,Roma,Tivoli,False
+849,Tivoli,Tivoli,False
+850,Roma,Torino,True
+851,Torino,Torino,False
+852,Torino,Torino,False
+853,Torino,Torino,False
+854,Cuba,Torino,False
+855,Filippine,Torino,False
+856,Marsala,Torino,False
+857,Vaprio d'Adda,Toritto,False
+858,Torre Annunziata,Torre Annunziata,False
+859,Castelli Cusiani,Torre Boldone,False
+860,Cassano Magnago,Torre di Mosto,False
+861,Torrita di Siena,Torrita di Siena,False
+862,Trani,Trani,False
+863,Gorizia,Trasaghis,False
+864,Brescia,Travagliato,True
+865,Tregnago,Tregnago,False
+866,Trento,Trento,False
+867,Argentina,Tresivio,False
+868,Milano,Treviglio,True
+869,Treviglio,Treviglio,False
+870,Treviglio,Treviglio,False
+871,Avellino,Trevignano Romano,False
+872,Bergamo,Treviolo,False
+873,Belluno,Treviso,False
+874,Treviso,Treviso,False
+875,Castelfranco Veneto,Treviso,False
+876,Torre Annunziata,Trezzano sul Naviglio,False
+877,Trieste,Trieste,False
+878,Trieste,Trieste,False
+879,Roma,Triuggio,False
+880,Milano,Triuggio,False
+881,Panni,Troia,False
+882,Milano,Truccazzano,False
+883,Legnago,Udine,True
+884,Valdagno,Valdagno,False
+885,Sondalo,Valdisotto,False
+886,Castel d'Aiano,Valsamoggia,False
+887,Busto Arsizio,Vanzaghello,False
+888,Rho,Vanzago,False
+889,Chiesa in Valmalenco,Varedo,False
+890,Varese,Varese,False
+891,Quistello,Varese,False
+892,San Giorgio a Cremano,Vasto,False
+893,Vasto,Vasto,False
+894,Vecchaino,Vecchiano,False
+895,Monza,Veduggio con Colzano,False
+896,Venezia,Venezia,False
+897,Chioggia,Venezia,False
+898,Venezia,Venezia,False
+899,Bolzano,Venezia,False
+900,Venosa,Venosa,False
+901,Verderio Superiore,Verderio,False
+902,Somma Lombardo,Vergiate,False
+903,Alatri,Veroli,False
+904,Verona,Verona,True
+905,Verona,Verona,False
+906,Verona,Verona,False
+907,Verona,Verona,False
+908,Sant'Anna d'Alfaedo,Verona,False
+909,Guinea Bissau,Verona,False
+910,Verona,Verona,False
+911,Verona,Verona,False
+912,Genova,Verona,False
+913,Genova,Verona,False
+914,Zevio,Verona,False
+915,Verona,Verona,False
+916,San Giovanni Valdarno,Verona,False
+917,Rona,Veruno,False
+918,Cremona,Vescovato,False
+919,Francia,"Via Capuccini, 397/a, Lanciano",False
+920,San Salvo,"Via Luigi Einauid, 2, San Salvo",False
+921,Chieti,"Via Pietro Falco 1, Chieti",False
+922,San Benedetto del Tronto,"Via Polo Borsellino, 8, Alba Adriatica",True
+923,Napoli,Vicenza,False
+924,Rodi Garganico,Vico del Gargano,True
+925,Vico Equense,Vico Equense,False
+926,Ragusa,Vignate,True
+927,Pumenengo,Vignate,False
+928,Dolo,Vigodarzere,False
+929,Concesio,Villa Carcina,True
+930,Brescia,Villa Collemandina,False
+931,Caserta,Villa Literno,False
+932,Caposele,Villarbasse,False
+933,Napoli,Villaricca,False
+934,Rotello,Villasanta,False
+935,Bovolone,Vimercate,False
+936,Napoli,Vimercate,False
+937,Milano,Vimodrone,False
+938,Vittorio Veneto,Vittorio Veneto,False
+939,Monopoli,Voghera,False
+940,X,X,False
+941,San Martino Buon Albergo,Zevio,True
+942,Bologna,Zola Predosa,False
+943,,,False
