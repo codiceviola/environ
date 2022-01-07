@@ -1,6 +1,8 @@
 
 <h1 align="center">Environ research</h1>
 
+[![DOI](https://zenodo.org/badge/309110233.svg)](https://zenodo.org/badge/latestdoi/309110233)
+
 
 <br><br>
 
